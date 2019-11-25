@@ -5,6 +5,7 @@ Microsoft Visual Studio 2019 Community Edition
 .net core 3 https://dotnet.microsoft.com/download/dotnet-core
 
 MySQL Tools for Visutal Studio https://dev.mysql.com/downloads/windows/visualstudio/
+	
 	mysql-for-visualstudio-1.2.9.msi (https://dev.mysql.com/downloads/windows/visualstudio/)
 	
 ## Configurating ASP.NET Membership web app for MySQL
