@@ -17,6 +17,7 @@ mysql-for-visualstudio-1.2.9.msi (https://dev.mysql.com/downloads/windows/visual
 ### Step 2:
 
 Uninstall the package Microsoft.EntityFrameworkCore.SQLServer
+
 Install the package Pomelo.EntityFrameworkCore.MySql
 
 ### Step 3:
